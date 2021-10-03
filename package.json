@@ -1,6 +1,6 @@
 {
   "homepage": "https://sangramsahani2.github.io/employe-registration/",
-  "name": "Employee-Management-system",
+  "name": "CRUD-app",
   "version": "3.1.0",
   "private": true,
   "dependencies": {
